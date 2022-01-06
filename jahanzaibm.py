@@ -2,7 +2,7 @@
    Facebook : JAHANZAIB M
    github : Jahanzaibm96
 '''
-Mahi unblock kar dou na please
+
 import os
 import sys
 import random
