@@ -61,12 +61,13 @@ def jalan(z):
 		time.sleep(00.1)
 
 rafi_logo = '''
-\x1b[1;96m   
-\x1b[1;96m  
-\x1b[1;96m
-\x1b[1;96m
-\x1b[1;96m
-\x1b[1;96m Whatsapp >>> 03072313580
+\x1b[1;96m  ___  __  
+\x1b[1;96m / _ \/ /
+\x1b[1;96m \_, / _ \  
+\x1b[1;96m  /_/\___/
+\x1b[1;96m 
+\x1b[1;96m Instagram >>> malikjahanzaib96
+\x1b[1;96m   Whatsapp >>> 03072313580
 \x1b[1;96m       Tiktok >>> jahanzaibmalik96
 \x1b[1;96m              Baki Love You ho giya jaana
 \x1b[1;101m\x1b[1;97mCreat by : JAHANZAIB MALIK 96 \x1b[0m
